@@ -4,7 +4,7 @@ about: "A place for human thoughts"
 location: "Berlin, Deutschland"
 email: your-email@example.com
 baseurl: ""
-url: "http://github.io/strazzulla/kusa" # replace by your site's url
+url: "https://strazzulla.github.io/kusa/" # replace by your site's url
 twitter_username: strazzulla
 github_username:  strazzulla
 
