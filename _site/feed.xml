@@ -3,10 +3,10 @@
   <channel>
     <title>Daniel</title>
     <description>Just to feel something</description>
-    <link>http://github.io/strazzulla/kusa/</link>
-    <atom:link href="http://github.io/strazzulla/kusa/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Oct 2016 23:42:47 +0200</pubDate>
-    <lastBuildDate>Mon, 03 Oct 2016 23:42:47 +0200</lastBuildDate>
+    <link>https://strazzulla.github.io/kusa//</link>
+    <atom:link href="https://strazzulla.github.io/kusa//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Oct 2016 23:58:01 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2016 23:58:01 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;WHola pichila&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 22:10:00 +0200</pubDate>
-        <link>http://github.io/strazzulla/kusa/2016/09/20/hola.html</link>
-        <guid isPermaLink="true">http://github.io/strazzulla/kusa/2016/09/20/hola.html</guid>
+        <link>https://strazzulla.github.io/kusa//2016/09/20/hola.html</link>
+        <guid isPermaLink="true">https://strazzulla.github.io/kusa//2016/09/20/hola.html</guid>
         
         <category>example</category>
         
@@ -30,8 +30,8 @@
 How to start and set it up? &lt;a href=&quot;http://himsel.me/2016/09/19/use-my-jekyll-theme.html&quot;&gt;Read the Article about it!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 22:10:00 +0200</pubDate>
-        <link>http://github.io/strazzulla/kusa/2016/09/19/welcome.html</link>
-        <guid isPermaLink="true">http://github.io/strazzulla/kusa/2016/09/19/welcome.html</guid>
+        <link>https://strazzulla.github.io/kusa//2016/09/19/welcome.html</link>
+        <guid isPermaLink="true">https://strazzulla.github.io/kusa//2016/09/19/welcome.html</guid>
         
         <category>example</category>
         
