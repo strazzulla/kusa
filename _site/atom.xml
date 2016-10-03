@@ -4,7 +4,7 @@
  <title>Daniel</title>
  <link href="/" rel="self"/>
  <link href=""/>
- <updated>2016-10-04T00:29:08+02:00</updated>
+ <updated>2016-10-04T00:33:30+02:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -13,21 +13,26 @@
 
  
  <entry>
-   <title>Bienvenido</title>
+   <title>Waves</title>
    <link href="/2016/09/20/hola.html"/>
    <updated>2016-09-20T22:10:00+02:00</updated>
    <id>/2016/09/20/hola</id>
-   <content type="html">&lt;p&gt;WHola pichila&lt;/p&gt;
+   <content type="html">&lt;p&gt;You’re just like the ocean. &lt;br /&gt;
+Gently pushing me away with each wave, &lt;br /&gt;
+yet subtly keeping me close to its shore. &lt;br /&gt;
+Never letting me in, yet don’t letting me go.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Welcome and Getting Started</title>
+   <title>Again</title>
    <link href="/2016/09/19/welcome.html"/>
    <updated>2016-09-19T22:10:00+02:00</updated>
    <id>/2016/09/19/welcome</id>
-   <content type="html">&lt;p&gt;Welcome to this jekyll theme!&lt;br /&gt;
-How to start and set it up? &lt;a href=&quot;http://himsel.me/2016/09/19/use-my-jekyll-theme.html&quot;&gt;Read the Article about it!&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;If I’m born again, I’d do things right this time around.&lt;br /&gt;
+If I’m ever born again, I will find you. &lt;br /&gt;
+If I’m born again, I will still fall apart with you. &lt;br /&gt;
+Ash will forever be ash.&lt;/p&gt;
 </content>
  </entry>
  
