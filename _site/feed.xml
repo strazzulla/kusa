@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your Name</title>
+    <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</description>
+    <link>http://himsel.me/</link>
+    <atom:link href="http://himsel.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Oct 2016 23:30:28 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2016 23:30:28 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Bienvenido</title>
+        <description>&lt;p&gt;WHola pichila&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Sep 2016 22:10:00 +0200</pubDate>
+        <link>http://himsel.me/2016/09/20/hola.html</link>
+        <guid isPermaLink="true">http://himsel.me/2016/09/20/hola.html</guid>
+        
+        <category>example</category>
+        
+        <category>welcome</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome and Getting Started</title>
+        <description>&lt;p&gt;Welcome to this jekyll theme!&lt;br /&gt;
+How to start and set it up? &lt;a href=&quot;http://himsel.me/2016/09/19/use-my-jekyll-theme.html&quot;&gt;Read the Article about it!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 22:10:00 +0200</pubDate>
+        <link>http://himsel.me/2016/09/19/welcome.html</link>
+        <guid isPermaLink="true">http://himsel.me/2016/09/19/welcome.html</guid>
+        
+        <category>example</category>
+        
+        <category>welcome</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

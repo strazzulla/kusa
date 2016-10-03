@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Your Name</title>
+ <link href="/" rel="self"/>
+ <link href=""/>
+ <updated>2016-10-03T23:30:28+02:00</updated>
+ <id></id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Bienvenido</title>
+   <link href="/2016/09/20/hola.html"/>
+   <updated>2016-09-20T22:10:00+02:00</updated>
+   <id>/2016/09/20/hola</id>
+   <content type="html">&lt;p&gt;WHola pichila&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Welcome and Getting Started</title>
+   <link href="/2016/09/19/welcome.html"/>
+   <updated>2016-09-19T22:10:00+02:00</updated>
+   <id>/2016/09/19/welcome</id>
+   <content type="html">&lt;p&gt;Welcome to this jekyll theme!&lt;br /&gt;
+How to start and set it up? &lt;a href=&quot;http://himsel.me/2016/09/19/use-my-jekyll-theme.html&quot;&gt;Read the Article about it!&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
