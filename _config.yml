@@ -23,6 +23,7 @@ rss_badge: "Subscribe feed!"
 
 # build settings
 markdown: kramdown
+theme: minimal
 
 # exclude files
 exclude:
